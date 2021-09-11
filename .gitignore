@@ -1,3 +1,14 @@
+titanic.zip
+env
+__pycachke__
+
+main.ipynb
+test.csv
+train.csv
+gender_submission.csv
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
